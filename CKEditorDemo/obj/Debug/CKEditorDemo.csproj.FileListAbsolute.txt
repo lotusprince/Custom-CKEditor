@@ -1,0 +1,5 @@
+E:\Project\CKEditorDemo\CKEditorDemo\bin\CKEditorDemo.dll
+E:\Project\CKEditorDemo\CKEditorDemo\bin\CKEditorDemo.pdb
+E:\Project\CKEditorDemo\CKEditorDemo\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\CKEditorDemo\CKEditorDemo\obj\Debug\CKEditorDemo.dll
+E:\Project\CKEditorDemo\CKEditorDemo\obj\Debug\CKEditorDemo.pdb
